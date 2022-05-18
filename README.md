@@ -1,15 +1,49 @@
-# Basic Sample Hardhat Project
+# BuyMeACoffee Defi Project
+Building a BuyMeACoffee Project which allows users to tip the creators by sending them 0.0001 ETH and leave them a message. Project is built using Etherjs to interact with contract on the frontend and connect wallet, Solidity, and contract is deployed on Goerli test-net.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Built With
 
-Try running some of the following tasks:
+- Solidity
+- Hardhat
+- Ethereum Goerli
+- Ethersjs
+- Metamask Wallet
+- Alchemy
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## Live Demo 
+### Deployed BuyMeACoffee Contract
+- [Goerli Etherscan](https://goerli.etherscan.io/address/0x8e78baa1a3ca7efdf681872d2a4dc74e101a2125)
+
+### BuyMeACoffee FrontEnd
+- [BuyMeACoffee](https://buymeacoffee-fe-psi.vercel.app/)
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Fork the repository
+- Git clone https://github.com/your-username/buymeacoffee-defi
+- git checkout -b branch name
+- git remote add upstream https://github.com/jebitok-dev/buymeacoffee-defi
+- git pull upstream master
+- git commit -m "commit message"
+- git push -u origin HEAD
+
+## Author
+
+👤 **Author**
+
+- GitHub: [@Jebitok-dev](https://github.com/Jebitok-dev)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgment
+
+ I hereby acknowledge the creators of [Alchemy Platform - #RoadToWeb3](https://docs.alchemy.com/alchemy/).
