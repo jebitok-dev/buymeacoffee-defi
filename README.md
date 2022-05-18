@@ -1,5 +1,5 @@
 # BuyMeACoffee Defi Project
-Building a BuyMeACoffee Project which allows users to tip the creators by sending them 0.0001 ETH and leave them a message. Project is built using Etherjs to interact with contract on the frontend and connect wallet, Solidity, and contract is deployed on Goerli test-net.
+Building a BuyMeACoffee Project which allows users to tip the creators by sending them 0.0001 ETH and leave them a message. Project is built using Etherjs to interact with contract on the [frontend](https://github.com/jebitok-dev/buymeacoffee-FE) and connect wallet, Solidity, and contract is deployed on Goerli test-net.
 
 ## Built With
 
